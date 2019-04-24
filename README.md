@@ -1,5 +1,17 @@
 # MVPTemplate
-A MVP template for Android Studio
+A MVP Activity template for Android Studio
+
+![Create MVP Activity](photo/screenshot-activity.png "Create MVP Activity")
+
+and the hierarchy:
+
+```
+com.company.app
+    +-- (whatever directory)
+    |   - MainActivity
+    |   - MainContract
+    |   - MainPresenter
+```    
 
 #### For MacOS:
 
